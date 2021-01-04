@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/juan91/ticket-app/static/css/main.dff3c0e4.chunk.css",
-    "main.js": "/juan91/ticket-app/static/js/main.0b43ef33.chunk.js",
-    "main.js.map": "/juan91/ticket-app/static/js/main.0b43ef33.chunk.js.map",
-    "runtime-main.js": "/juan91/ticket-app/static/js/runtime-main.d19b4e76.js",
-    "runtime-main.js.map": "/juan91/ticket-app/static/js/runtime-main.d19b4e76.js.map",
-    "static/css/2.e10332d9.chunk.css": "/juan91/ticket-app/static/css/2.e10332d9.chunk.css",
-    "static/js/2.a8b273d2.chunk.js": "/juan91/ticket-app/static/js/2.a8b273d2.chunk.js",
-    "static/js/2.a8b273d2.chunk.js.map": "/juan91/ticket-app/static/js/2.a8b273d2.chunk.js.map",
-    "index.html": "/juan91/ticket-app/index.html",
-    "precache-manifest.0cbba9d204f8836a9f86b94cebd462cf.js": "/juan91/ticket-app/precache-manifest.0cbba9d204f8836a9f86b94cebd462cf.js",
-    "service-worker.js": "/juan91/ticket-app/service-worker.js",
-    "static/css/2.e10332d9.chunk.css.map": "/juan91/ticket-app/static/css/2.e10332d9.chunk.css.map",
-    "static/css/main.dff3c0e4.chunk.css.map": "/juan91/ticket-app/static/css/main.dff3c0e4.chunk.css.map",
-    "static/js/2.a8b273d2.chunk.js.LICENSE.txt": "/juan91/ticket-app/static/js/2.a8b273d2.chunk.js.LICENSE.txt"
+    "main.css": "/ticket-app/static/css/main.dff3c0e4.chunk.css",
+    "main.js": "/ticket-app/static/js/main.0b43ef33.chunk.js",
+    "main.js.map": "/ticket-app/static/js/main.0b43ef33.chunk.js.map",
+    "runtime-main.js": "/ticket-app/static/js/runtime-main.bb3ddb76.js",
+    "runtime-main.js.map": "/ticket-app/static/js/runtime-main.bb3ddb76.js.map",
+    "static/css/2.e10332d9.chunk.css": "/ticket-app/static/css/2.e10332d9.chunk.css",
+    "static/js/2.af155ee5.chunk.js": "/ticket-app/static/js/2.af155ee5.chunk.js",
+    "static/js/2.af155ee5.chunk.js.map": "/ticket-app/static/js/2.af155ee5.chunk.js.map",
+    "index.html": "/ticket-app/index.html",
+    "precache-manifest.aac9788b1dd4ec79303ccfbfe1fe0f81.js": "/ticket-app/precache-manifest.aac9788b1dd4ec79303ccfbfe1fe0f81.js",
+    "service-worker.js": "/ticket-app/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/ticket-app/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.dff3c0e4.chunk.css.map": "/ticket-app/static/css/main.dff3c0e4.chunk.css.map",
+    "static/js/2.af155ee5.chunk.js.LICENSE.txt": "/ticket-app/static/js/2.af155ee5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d19b4e76.js",
+    "static/js/runtime-main.bb3ddb76.js",
     "static/css/2.e10332d9.chunk.css",
-    "static/js/2.a8b273d2.chunk.js",
+    "static/js/2.af155ee5.chunk.js",
     "static/css/main.dff3c0e4.chunk.css",
     "static/js/main.0b43ef33.chunk.js"
   ]
